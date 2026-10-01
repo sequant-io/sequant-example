@@ -17,7 +17,7 @@ Each open issue is written the way Sequant expects (requirements as `## Acceptan
 |---|---|
 | #2 Accented letters are dropped | Your first issue to PR |
 | #1 Add a `maxLength` option | Write issues Sequant can execute |
-| #3 Truncate at a word boundary (blocked by #1) | Run related issues without conflicts |
+| #3 Truncate at a word boundary (depends on #1) | Run related issues without conflicts |
 | #4 README typo (intentional: "libary") | Pick the cheapest correct path for an issue |
 
 Everything here is fictional and safe to copy.
