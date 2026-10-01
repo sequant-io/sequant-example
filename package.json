@@ -1,0 +1,14 @@
+{
+  "name": "sequant-example",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A tiny slug library used as the worked example in Sequant's how-to guides",
+  "type": "module",
+  "main": "src/slugify.js",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\"",
+    "build": "node --check src/slugify.js"
+  },
+  "engines": { "node": ">=22" },
+  "license": "MIT"
+}
