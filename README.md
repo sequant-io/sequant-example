@@ -1,6 +1,6 @@
 # sequant-example
 
-A deliberately tiny slug libary. It exists so [Sequant](https://github.com/sequant-io/sequant)'s how-to guides can point at real issues, real runs, real QA comments and real pull requests instead of screenshots of made-up ones.
+A deliberately tiny slug library. It exists so [Sequant](https://github.com/sequant-io/sequant)'s how-to guides can point at real issues, real runs, real QA comments and real pull requests instead of screenshots of made-up ones.
 
 ```js
 import { slugify } from "./src/slugify.js";
